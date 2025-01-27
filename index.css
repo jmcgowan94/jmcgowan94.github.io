@@ -1,10 +1,10 @@
 * {
 	font-family: Arial;
-	background-color: hsl(48, 80%, 93%);
+	background-color: hsl(48, 100%, 93%);
 }
 
 nav {
-	background-color: hsl(48, 100%, 93%);
+	background-color: hsl(48, 100%, 100%);
 	display: inline-block;
 }
 
