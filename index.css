@@ -4,12 +4,11 @@
 }
 
 nav {
-	background-color: hsl(48, 100%, 100%);
+	background-color: hsl(48, 100%, 50%);
 	display: inline-block;
 }
 
 footer {
-	background-color: blue;
 	position: absolute;
 	bottom: 5px;
 }
