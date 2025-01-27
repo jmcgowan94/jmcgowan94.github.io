@@ -9,6 +9,7 @@ nav {
 }
 
 footer {
+	background-color: blue;
 	position: absolute;
 	bottom: 5px;
 }
