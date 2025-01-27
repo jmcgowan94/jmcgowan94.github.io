@@ -1,11 +1,12 @@
 * {
 	font-family: Arial;
-	background-color: hsl(48, 90%, 93%);
+	background-color: hsl(48, 80%, 93%);
 }
 
 nav {
 	background-color: hsl(48, 100%, 93%);
 	display: inline-block;
+)
 
 footer {
 	position: absolute;
